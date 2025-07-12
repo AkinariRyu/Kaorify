@@ -48,7 +48,11 @@
     "@nestjs/testing": "^11.0.1",
     "@swc/cli": "^0.6.0",
     "@swc/core": "^1.10.7",
+ AkinariRyu
     "@types/cookie-parser": "^1.4.9",
+
+    "@trivago/prettier-plugin-sort-imports": "^5.2.2",
+ main
     "@types/express": "^5.0.0",
     "@types/express-session": "^1.18.2",
     "@types/jest": "^29.5.14",
